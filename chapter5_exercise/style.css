@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+header {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid gray;
+}
+.nav-list {
+    text-align: center;
+    /*中央*/
+    padding: 15px 0;
+    margin: 0 auto;
+    border-bottom: 5px solid gray;
+}
+
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+main{
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+    width: 800px;
+    height: 100%;
+}
+div {
+    width: 200px; /*横*/
+    height: 200px; /*縦*/
+    float: left;
+}
+.collar1 {
+    background-color: #e6ffe9;
+}
+.collar2{
+    background-color: #cbffd3;
+}
+.collar3{
+    background-color: #aeffbd;
+}
+.collar4{
+    background-color: #93ffab;
+}
+.collar5{
+    background-color: #f3ffd8;
+}
+.collar6{
+    background-color: #edffbe;
+}
+.collar7{
+    background-color: #e9ffa5;
+}
+.collar8{
+    background-color: #e4ff8d;
+}
+.collar9{
+    background-color: #d9e5ff;
+}
+.collar10{
+    background-color: #bad3ff;
+}
+.collar11{
+    background-color: #a4c6ff;
+}
+.collar12{
+    background-color: #8eb8ff;
+}
