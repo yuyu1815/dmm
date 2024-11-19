@@ -21,7 +21,10 @@ header .heading {
     /* headerタグ内のheadingクラスにのみ反映される */
     font-size: 32px;
 }
-
+.social i{
+    display: inline-block;
+    margin-left: 20px;
+}
 .nav-list {
     text-align: center;
     padding: 10px 0;
