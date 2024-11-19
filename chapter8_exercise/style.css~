@@ -8,8 +8,6 @@
 }
 .position{
     position: absolute;
-    Top: 100px;
     right: 40px;
     bottom: 40px;
-    left: 40px;
 }

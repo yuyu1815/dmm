@@ -222,7 +222,7 @@ footer {
         color: #fff; /* 文字色を白に変更 */
     }
 
-    /*ブログイメージを調整*/
+    /*ブログイメージを正方形に*/
     .blog-image {
         height: 180px;
         width: 50%;
